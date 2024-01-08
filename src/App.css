@@ -1,0 +1,7 @@
+.flexDiv{
+  display: flex;
+  gap: 10px;
+}
+img{
+  width: 25vw;
+}
